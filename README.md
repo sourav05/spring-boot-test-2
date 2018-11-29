@@ -1,1 +1,2 @@
-# spring-boot-test-2
+# Rest
+Sample app
